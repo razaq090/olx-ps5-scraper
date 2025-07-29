@@ -11,6 +11,9 @@ A Python-based web scraper that extracts PS5 listings from OLX Pakistan.
 2. Run the script: `python olx_scraper.py`
 3. Output will be saved as `OLX_listing_PS5_detail.xlsx`
 
+## The WEB Page I Work With
+![Scraper](The WEB page Image.png)
+
 ## Preview
 ![Scraper Output](screenshot.png)
 
