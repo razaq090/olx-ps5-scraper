@@ -15,7 +15,7 @@ A Python-based web scraper that extracts PS5 listings from OLX Pakistan.
 ![Scraper](WebImage.png)
 
 ## Preview
-![Scraper Output](The WEB page Image.png)
+![Scraper Output](screenshot.png)
 
 ## License
 MIT
